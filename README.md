@@ -14,12 +14,12 @@ A .NET library that provides a fluent API for building URIs with strict validati
 You can install the package via NuGet:
 
 ```
-Install-Package Bromix.Fluent.Uri -Version 1.0.0
+Install-Package Bromix.Fluent.Uri
 ```
 
 Or via the .NET CLI:
 ```
-dotnet add package Bromix.Fluent.Uri --version 1.0.0
+dotnet add package Bromix.Fluent.Uri
 ```
 
 ## Usage
