@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <TargetFrameworks>net7.0;net6.0;netstandard2.1</TargetFrameworks>
+    <LangVersion>11</LangVersion>
+    <Version>1.0.0-preview-1</Version>
+  </PropertyGroup>
+
+</Project>
