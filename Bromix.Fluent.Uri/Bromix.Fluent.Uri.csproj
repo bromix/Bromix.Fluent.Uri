@@ -16,7 +16,7 @@
     <PackageProjectUrl>https://github.com/bromix/Bromix.Fluent.Uri</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageTags>Fluent;Uri;Absolute;Relative;Query;</PackageTags>
+    <PackageTags>fluent;url;uri;querystring;builder;querybuilder;urlbuilder;uribuilder;query</PackageTags>
     <PackageIcon>Logo.png</PackageIcon>
     <RepositoryUrl>https://github.com/bromix/Bromix.Fluent.Uri</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
