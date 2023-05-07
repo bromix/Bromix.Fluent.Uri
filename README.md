@@ -1,1 +1,1 @@
-# Bromix.Fluent.UriBuilder
+# Bromix.Fluent.Uri

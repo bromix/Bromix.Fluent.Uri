@@ -17,13 +17,13 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageTags>Fluent;Uri;Absolute;Relative;Query;</PackageTags>
-<!--    <PackageIcon>Logo.png</PackageIcon>-->
+    <PackageIcon>Logo.png</PackageIcon>
     <RepositoryUrl>https://github.com/bromix/Bromix.Fluent.Uri</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
-<!--    <None Include="../Logo.png" Pack="true" PackagePath="/" />-->
+    <None Include="../Logo.png" Pack="true" PackagePath="/" />
     <None Include="../README.md" Pack="true" PackagePath="/" />
     <None Include="../LICENSE" Pack="true" PackagePath="/" />
   </ItemGroup>
